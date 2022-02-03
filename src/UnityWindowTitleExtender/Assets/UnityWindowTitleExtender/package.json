@@ -1,5 +1,5 @@
 {
-    "name": "com.makoto.UnityWindowTitleExtender",
+    "name": "com.makotohamanaka.UnityWindowTitleExtender",
     "version": "0.0.1",
     "displayName": "UnityWindowTitleExtender",
     "description": "Show parent directories on the title bar of Unity Editor",
