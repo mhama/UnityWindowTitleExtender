@@ -1,5 +1,5 @@
 {
-    "name": "com.makotohamanaka.UnityWindowTitleExtender",
+    "name": "com.makotohamanaka.unitywindowtitleextender",
     "version": "0.0.1",
     "displayName": "UnityWindowTitleExtender",
     "description": "Show parent directories on the title bar of Unity Editor",
@@ -8,12 +8,9 @@
     "changelogUrl": "https://github.com/mhama/UnityWindowTitleExtender/CHANGELOG.md",
     "licensesUrl": "https://github.com/mhama/UnityWindowTitleExtender/LICENSE",
     "dependencies": {},
-    "keywords": [
-        "Unity"
-    ],
+    "keywords": ["window", "directory", "folder", "utilities"],
     "author": {
         "name": "Makoto Hamanaka",
-        "email": "ham.lua@gmail.com",
         "url": "https://github.com/mhama"
     }
 }
