@@ -12,5 +12,5 @@ This is useful when you are working with multiple Unity Editor Windows and want 
 2. From '+' button on the upper left corner, select `Add Packkage from Git URL...`.
 3. Put this to the text box and click `Add`.
 ```
-https://github.com/mhama/UnityWindowTitleExtender?path=/src/UnityWindowTitleExtender/Assets/UnityWindowTitleExtender
+https://github.com/mhama/UnityWindowTitleExtender.git?path=/src/UnityWindowTitleExtender/Assets/UnityWindowTitleExtender
 ```
